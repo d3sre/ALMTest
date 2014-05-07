@@ -5,10 +5,7 @@
   <groupId>ch.zhaw.java</groupId>
   <artifactId>almtest</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <build>
-    <sourceDirectory>${basedir}/src/main</sourceDirectory>
-    <testSourceDirectory>${basedir}/src/test</testSourceDirectory>
-  </build>
+
   <packaging>jar</packaging>
 
     <name>almtest</name>
